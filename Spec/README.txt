@@ -1,0 +1,1 @@
+Le dossier spec recueille l'ensemble des spécifications fonctionnelles du projet. Ils prennent place le cahier des charges, le zoning, l'arborescence ou encore les demandes d'évolution.

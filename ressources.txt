@@ -1,0 +1,3 @@
+https://checklists.opquast.com/fr/assurance-qualite-web/ 			=> les bonnes pratiques
+http://www.boxuk.com/blog/the-ultimate-website-launch-checklist 		=> checklist ultime pour le lancement d'un site web
+http://northtemple.com/1608/ 								=> checklist d'accessibilité

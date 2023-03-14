@@ -1,0 +1,1 @@
+Le dossier www.est, réservé à l'intégration proprement dite, il constitue la racine du site web et contient l'ensemble des éléments qui vont être livrés ou mis en ligne. Au contraire des sources et des spécifications qui ne seront pas poussées en production.
